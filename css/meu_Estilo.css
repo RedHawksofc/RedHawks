@@ -1,0 +1,27 @@
+.bg-Fundo {
+    background-color: crimson;
+}
+
+.bg-CinzaClaro {
+    background-color: #ddd;
+}
+
+.bg-Azul {
+    background-color: #87CEFA;
+}
+
+.bg-Verde {
+    background-color: #00FF00;
+}
+
+.bg-Fundo1 {
+    padding: 20px;
+    width: 100%;
+    box-shadow: 0 0 25px rgb(255, 0, 0);
+    cursor: pointer;
+    border-radius: 35;
+}
+
+.bg-Menu {
+    background-color: #FF6A6A;
+}
